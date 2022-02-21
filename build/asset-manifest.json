@@ -1,14 +1,15 @@
 {
   "files": {
-    "main.css": "/theiotguy/static/css/main.c4e505f0.css",
-    "main.js": "/theiotguy/static/js/main.abd7394d.js",
-    "static/media/logo.svg": "/theiotguy/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/theiotguy/index.html",
-    "main.c4e505f0.css.map": "/theiotguy/static/css/main.c4e505f0.css.map",
-    "main.abd7394d.js.map": "/theiotguy/static/js/main.abd7394d.js.map"
+    "main.css": "/theiotguy-sensordata-to-gsheets/static/css/main.c4e505f0.css",
+    "main.js": "/theiotguy-sensordata-to-gsheets/static/js/main.286685de.js",
+    "static/media/sendDataToGsheets.png": "/theiotguy-sensordata-to-gsheets/static/media/sendDataToGsheets.818c6c6bec8f146278ec.png",
+    "static/media/icon_logo_high_res.png": "/theiotguy-sensordata-to-gsheets/static/media/icon_logo_high_res.7bde416357442f6ada73.png",
+    "index.html": "/theiotguy-sensordata-to-gsheets/index.html",
+    "main.c4e505f0.css.map": "/theiotguy-sensordata-to-gsheets/static/css/main.c4e505f0.css.map",
+    "main.286685de.js.map": "/theiotguy-sensordata-to-gsheets/static/js/main.286685de.js.map"
   },
   "entrypoints": [
     "static/css/main.c4e505f0.css",
-    "static/js/main.abd7394d.js"
+    "static/js/main.286685de.js"
   ]
 }

@@ -1,6 +1,6 @@
-import logo from './logo.svg';
 import './App.scss';
 import 'bootstrap/dist/css/bootstrap.min.css'
+import ytbThumbnail from "./sendDataToGsheets.png";
 import { Button, Card } from 'react-bootstrap'
 import NavBaar from './Navbaar';
 const { theActualCode } = require('./theCode.jsx');
@@ -9,7 +9,7 @@ function App() {
     <div className="App">
       <NavBaar></NavBaar>
       <h1>Sending sensor data to Google Sheets</h1>
-      <img src="/sendDataToGsheets.png" alt="" width="100%" />
+      <img src={ytbThumbnail} alt="" width="100%" />
 
       <Card>
         <br />
